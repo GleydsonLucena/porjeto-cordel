@@ -100,7 +100,9 @@ section.image > p {
 
 footer {
     background-color: black;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.631);
     color: white;
+
     text-align: center;
     padding: 5px;
 }
